@@ -177,7 +177,7 @@
 				<Title>heatmap_dki_4326</Title>
 				<Abstract>GH:heatmap_dki_4326 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group:tif:::disabledownload:notListing::maxZoom:7</Keyword>
+					<Keyword>group:tif:::disabledownload:notListing::maxZoom:10</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="106.684542587" miny="-6.372611465" maxx="106.974763407" maxy="-6.085987261"></LatLonBoundingBox>
