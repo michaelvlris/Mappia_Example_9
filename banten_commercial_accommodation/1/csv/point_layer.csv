@@ -1,0 +1,64 @@
+X,Y,osm_id,osm_type,rooms,beds,name,tourism,icon_url
+106.6682762,-6.2947221,9986439125,nodes,"252",,Trembesi Hotel,hotel,./0.png
+106.6931418,-6.3047349,11622312820,nodes,,,RedDoorz,hotel,./0.png
+106.6253792,-6.2435629,4235212505,nodes,,,Vega Hotel,hotel,./0.png
+106.7125251,-6.3174632,4594408990,nodes,,,,guest_house,./0.png
+106.7450773,-6.319739,6761035334,nodes,,,Wisma Syariah CMC,guest_house,./0.png
+106.709805,-6.3160878,6420482386,nodes,,,,guest_house,./0.png
+106.6633227,-6.3073487,10720283423,nodes,,,Sahid Serpong,hotel,./0.png
+106.6298252,-6.1291769,8404604210,nodes,"12",,Kost Bandara Soekarno Hatta,hotel,./0.png
+106.7586207,-6.340756,2002255999,nodes,,,wisma 3 UT,hotel,./0.png
+106.6849068,-6.3006912,11623693441,nodes,,,Escentia House,motel,./0.png
+106.2481549,-6.3604025,9654393527,nodes,,,Wisma Sugri,hotel,./0.png
+106.7586207,-6.3410439,2002255176,nodes,,,wisma 2 UT,hotel,./0.png
+106.7290118,-6.2862138,11873682467,nodes,"184",,DoubleTree by Hilton Jakarta Bintaro Jaya,hotel,./0.png
+106.6842333,-6.112894,3483041205,nodes,,,Hotel J,hotel,./0.png
+106.6408113,-6.1583727,4439055491,nodes,,,,guest_house,./0.png
+106.6299885,-6.2413217,4613451890,nodes,,,,motel,./0.png
+106.068964,-6.0592168,10914338345,nodes,,,"Kontrakan Zona Carmel, Jl. Gg Kenari, Blok C1, No. 6",guest_house,./0.png
+106.7063342,-6.3107435,4448663090,nodes,,,,guest_house,./0.png
+106.6255306,-6.1740647,6154788485,nodes,,,,hotel,./0.png
+106.0335556,-6.0516486,11106915574,nodes,,,Perumahan Bukit Cilegon Asri Blok CN17,hostel,./0.png
+106.7587068,-6.3415133,2002254183,nodes,,,Wisma 1 UT,motel,./0.png
+106.3706399,-6.8427792,10197006187,nodes,,,BG_ELLO homestay,guest_house,./0.png
+105.8260091,-6.3532412,4301845289,nodes,,,Coconut Island,hotel,./0.png
+106.6860198,-6.1336495,5919542485,nodes,,,Favehotel,hotel,./0.png
+106.6034925,-6.2277829,3822587590,nodes,,,Aryaduta Lippo Village Main Lobby,hotel,./0.png
+106.5900165,-6.2252982,4171568689,nodes,,,Reddoorz Permata,hostel,./0.png
+106.5906424,-6.2269557,4340473891,nodes,,,M Pavilion,hostel,./0.png
+105.8416065,-6.3046776,10168894705,nodes,,,Admiral Villa Carita,guest_house,./0.png
+106.633278,-6.2219415,4235116824,nodes,,,Great Western Resort Hotel,hotel,./0.png
+106.6335974,-6.221261,4556551989,nodes,,,,hotel,./0.png
+106.39148,-6.1540044,5311399622,nodes,,,,guest_house,./0.png
+106.7450407,-6.2747766,4234972933,nodes,,,58 Guest House,hotel,./0.png
+106.6578108,-6.1291317,6894284985,nodes,,,,hotel,./0.png
+106.62907,-6.1427289,9754229269,nodes,,,Nunia Inn Bandara,hotel,./0.png
+106.618747,-6.2507952,4613805389,nodes,,,,motel,./0.png
+106.6265802,-6.2479255,4240708567,nodes,,,Hotel Ibis Gading Serpong,hotel,./0.png
+105.9991712,-5.9317012,4312086391,nodes,,,Hotel Anda,hotel,./0.png
+105.9991359,-5.9316571,4312101290,nodes,,,Hotel Robinson,hotel,./0.png
+106.3097039,-6.9831707,5887146075,nodes,,,Widi Homestay,hotel,./0.png
+106.1180221,-6.2851627,9570413357,nodes,,,Horison Altama,hotel,./0.png
+105.5029635,-6.782395,12339030801,nodes,,,Homestay Rimba-Jaya,guest_house,./0.png
+106.6705534,-6.2996092,5209896267,nodes,,,Boulevard Residence,guest_house,./0.png
+106.6627351,-6.2734638,4933925822,nodes,,,,guest_house,./0.png
+106.6326915,-6.1582899,5109533225,nodes,,,,hotel,./0.png
+106.6709659,-6.190684,9696043823,nodes,,,Favehotel Hasyim Ashari,hotel,./0.png
+106.6243983,-6.1901195,6264009590,nodes,,,,hotel,./0.png
+106.5897689,-6.192045,9695576507,nodes,,,Hotel Istana Nelayan Tangerang,hotel,./0.png
+106.5870491,-6.1942039,9695564439,nodes,,,Grand Soll Marina Hotel,hotel,./0.png
+106.6328638,-6.1693092,9696017698,nodes,,,Pakons Prime Hotel,hotel,./0.png
+106.6863065,-6.1139388,9756189006,nodes,,,Swiss-Belhotel Airport,hotel,./0.png
+106.6870804,-6.1136974,9756221782,nodes,,,Zest Hotel Airport Jakarta,hotel,./0.png
+106.6844608,-6.1130753,3483041206,nodes,,,Hotel Amin,hotel,./0.png
+106.6919927,-6.1128924,10833678705,nodes,,,conjioo hotel,hotel,./0.png
+106.6886803,-6.1187103,4773934221,nodes,,,,hotel,./0.png
+106.6908222,-6.1134566,9699920182,nodes,,,Starlet Hotel Jakarta Airport,hotel,./0.png
+106.6675982,-6.117989,10804650512,nodes,,,Digital Airport Hotel,hotel,./0.png
+106.6626411,-6.2345207,11238530537,nodes,,,RZ,guest_house,./0.png
+106.6520132,-6.2444583,11542561502,nodes,,,Mercure Hotel Alam Sutera,hotel,./0.png
+106.6526285,-6.1225393,494903786,nodes,,,Jakarta Airport Hotel,hotel,./0.png
+106.6755955,-6.1488584,5436611621,nodes,,,,hotel,./0.png
+106.1581147,-6.1149833,11215161137,nodes,,,,hotel,./0.png
+106.0744668,-6.0576165,10914356470,nodes,,,"Rumah, Jl. Bacan, Blok G19, No. 24",guest_house,./0.png
+106.5266964,-6.2446215,4122396989,nodes,,,Amaris Hotel Citra Raya,hotel,./0.png
